@@ -81,3 +81,6 @@ BREVE REFLEXION POR ESTUDIANTE:
 
 ROCIO CERON #00571949
 La IA me ayudó a hacer la estructura del árbol binario y los recorridos. Tuve que revisar y corregir algunas partes porque al principio el árbol no se mostraba como yo quería. Durante el proceso aprendí mejor cómo se acomodan los nodos y cómo funcionan los recorridos de preorden, inorden y postorden. También aprendí que es importante revisar el código que genera la IA y no solo copiarlo.
+
+Diego Alberto Cervantes Funes #00594828
+Use la IA mas que todo para verificar que todo estuviera correctamente. Tambien, la use para editar como se miraba el arbol graficamente en el sistema, ya que se miraba de una forma que no nos gustaba. Es importante no solo guiarse de la capacidad de la IA sino tambien de nuestros conocimientos y de lo que sabemos programar. Hay que usarla como un ayudante no como la persona que hace todo.
