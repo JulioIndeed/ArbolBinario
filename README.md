@@ -57,23 +57,23 @@ Sí, entendemos que el código usa un árbol binario de búsqueda  para organiza
 
 ¿Qué entradas necesita?
 
-Necesita una oracion o un texto para que el codigo lo analice y guarde las palabras.
+Necesita que se escriba una oración.
 
 ¿Qué resultado produce?
 
-Un arbol binario de palabras.
+Un arbol binario con las palabras de la oración que se insertó.
 
 ¿Encontramos algún error?
 
-Si encontramos uno, no hacia el diagrama graficamente.
+El código no organizaba correctamnete las palabras en el árbol en orden alfabético, además no imprimía correctamente el diagrama del código.
 
 ¿Qué modificación realizamos?
 
-Reestructuramos el codigo para que sea un archivo ".form" donde hace que el codigo pase a la consola y se haga graficamente.
+Reesrtructuramos la parte del código que organizaba el árbol en orden alfabético y buscamos otra manera en la que podíamos imprimir el diagrama en la consola.
 
 ¿Por qué realizamos esa modificación?
 
-Era un requisito. 
+Para que el árbol organice las palabras de manera correcta y el diagrama del árbol se imprimiera correctamente y se viera mejor estéticamente, a pesar de que no se realizó de manera gráfica. 
 
 
 
@@ -90,3 +90,9 @@ Use la IA mas que todo para verificar que todo estuviera correctamente. Tambien,
 Edwin Ulises Pedrero Chávez #00476339 
 
 La IA me sirvió bastante para armar la parte de insertar las palabras en el árbol (decidir si iban a la izquierda o a la derecha) y para entender cómo se hacen los recorridos inorden, preorden y postorden, que al principio se me hacían un poco confusos. Lo que sí tuve que revisar con cuidado fue el tema de las palabras repetidas y las mayúsculas/signos de puntuación, porque la primera versión que me dio no los tomaba en cuenta bien, y me di cuenta al probar el programa con oraciones reales. Al final aprendí que la IA ayuda mucho a avanzar más rápido, pero igual tienes que entender bien lo que está pasando para poder detectar cuando algo no funciona como debería y corregirlo tú mismo.
+
+Julio Olguín #00579148
+
+Utilicé la IA domo una herramienta para modificar un código base de un árbol binario y poder realizar métodos más complejos como permitir al usuario insertar lo que debe ir dentro del árbol, así como el orden que tiene que impirmir la información, la palabra más repetida, entre otros. Me ayudó a facilitar el proceso de realizar el código, y sirvió como un apoyo para entender y mantener la lógica del código base para aplicarla en este proyecto.
+
+
